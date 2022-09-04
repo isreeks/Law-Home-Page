@@ -86,15 +86,26 @@
 }
 
 .pre{
-  height: 80px;
-  width: 80px;
   background-color: #39372d;
-  font-size: xx-large;
+  font-size: 60px;
+  color: #a08f36;
+  border: none;
+  opacity: 0.8;
+}
+
+.bottom i{
+  background-color: transparent;
+}
+
+.bottom button {
+  padding: 16px;
+  border: none;
+  outline: none;
 }
 
 .next{
-  height: 80px;
-  width: 80px;
-  background-color: #a08f36;
-  font-size: xx-large;
+  background-color:#a08f36;
+  font-size: 60px;
+  color: #39372d;
+  border: none;
 }
